@@ -26,19 +26,19 @@ h6 {
   margin: 0 0 35px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: blue;}
+  color: DodgerBlue;}
 
 p {
   font-size: 16px;
   line-height: 1.5;
   margin: 0 0 25px; 
-  color: blue;}
+  color: DodgerBlue;}
   @media (min-width: 768px) {
     p {
       font-size: 18px;
       line-height: 1.6;
       margin: 0 0 35px; 
-      color: blue;} }
+      color: DodgerBlue;} }
 
 a {
   -webkit-transition: all 0.2s ease-in-out;
@@ -114,20 +114,20 @@ a {
     vertical-align: middle; }
     .masthead .intro-body .brand-heading {
       font-size: 50px; 
-      color: blue;}
+      color: DodgerBlue;}
     .masthead .intro-body .intro-text {
       font-size: 18px; 
-      color: blue;}
+      color: DodgerBlue;}
   @media (min-width: 768px) {
     .masthead {
       height: 100%;
       padding: 0; }
       .masthead .intro-body .brand-heading {
         font-size: 100px;
-        color: blue;}
+        color: DodgerBlue;}
       .masthead .intro-body .intro-text {
         font-size: 22px;
-        color: blue;} }
+        color: DodgerBlue;} }
 
 .btn-circle {
   font-size: 26px;
@@ -153,8 +153,8 @@ a {
 
 .download-section {
   color: white;
-  background: url("../img/BCH Logo.png") no-repeat center center scroll;
-  background-color: black;
+  background: url("../img/intro-bg.jpg") no-repeat center center scroll;
+  background-color: LightGray;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
