@@ -32,13 +32,13 @@ p {
   font-size: 16px;
   line-height: 1.5;
   margin: 0 0 25px; 
-  color: MediumSeaGreen;}
+  color: Chartreuse ;}
   @media (min-width: 768px) {
     p {
       font-size: 18px;
       line-height: 1.6;
       margin: 0 0 35px; 
-      color: MediumSeaGreen;} }
+      color: Chartreuse ;} }
 
 a {
   -webkit-transition: all 0.2s ease-in-out;
