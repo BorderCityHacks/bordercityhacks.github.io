@@ -26,15 +26,15 @@ h6 {
   margin: 0 0 35px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: DodgerBlue;}
+  color: Black;}
 
-h7 {
+h3{
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   margin: 0 0 35px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: Black;}
+  color: DodgerBlue;}
 
 p {
   font-size: 16px;
